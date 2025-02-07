@@ -1,0 +1,1 @@
+python3 predict.py -ds_name example_dataset -samples example/samples.dat -checkpoint_path weigths/crnn/example_dataset_0.ckpt -vocab data/vocabs/example_dataset_ctc_w2i.json
